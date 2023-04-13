@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1680870384 source:c:\users\youse\onedrive\desktop\programming\tasks for university ( lecture )\forth task\1- program to print all natural numbers from 1 to n\print all natural numbers from 1 to n\main.c
+	<stdio.h>
+
