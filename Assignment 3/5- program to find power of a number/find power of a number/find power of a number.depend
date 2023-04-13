@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680875949 source:c:\users\youse\onedrive\desktop\programming\tasks for university ( lecture )\forth task\5- program to find power of a number\find power of a number\main.c
+	<stdio.h>
+	<stdlib.h>
+
