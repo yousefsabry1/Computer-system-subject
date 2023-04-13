@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680881187 source:c:\users\youse\onedrive\desktop\programming\tasks for university ( lecture )\forth task\8- program to check whether a number is prime number or not\check whether a number is prime number or not\main.c
+	<stdio.h>
+	<stdlib.h>
+
